@@ -71,7 +71,6 @@ public class Main {
             System.out.printf("The Random number is: %.2f \n", board[randRows][randCols]);
         }
 
-
         System.out.println(); // space
 
         // Output
